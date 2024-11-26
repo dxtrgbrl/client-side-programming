@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		img {
+			width: 900px;
+			min-height: 600px;
+			padding: 20px;
+			margin-top: 40px;
+			background-color: white;
+		}
+		h1 {
+			color: white;
+			font-size: 60px;
+		}
+	</style>
+</head>
+<body>
+	<div>
+		<h1>Paris, Eiffel Tower</h1>
+		<h1>Santorini, Greece</h1>
+		<h1>Switzerland Lake</h1>
+		<h1>Paris, Eiffel Tower</h1>
+		<h1>Paris, Eiffel Tower</h1>
+	</div>
+</body>
+</html>
